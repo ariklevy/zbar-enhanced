@@ -812,6 +812,8 @@
 				OTHER_LDFLAGS = "";
 				PRODUCT_NAME = zbar;
 				SKIP_INSTALL = YES;
+				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
+				VALID_ARCHS = "arm64 armv7 armv7s x86_64";
 			};
 			name = Debug;
 		};
@@ -830,6 +832,8 @@
 				OTHER_LDFLAGS = "";
 				PRODUCT_NAME = zbar;
 				SKIP_INSTALL = YES;
+				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
+				VALID_ARCHS = "arm64 armv7 armv7s x86_64";
 			};
 			name = Release;
 		};
@@ -1058,6 +1062,8 @@
 				OTHER_LDFLAGS = "";
 				PRODUCT_NAME = zbar;
 				SKIP_INSTALL = YES;
+				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
+				VALID_ARCHS = "arm64 armv7 armv7s x86_64";
 			};
 			name = Distribution;
 		};

@@ -1,3 +1,15 @@
+Luxer One Enhancements
+======================
+
+We have added an omni-directional scanning mode to improve barcode recognition
+at various angles. See the CameraCapture class there for usage details.
+
+To build the library, find the iOS project under iphone/, load it into XCode and
+build once for iOS and once for simulator. Locate those files in the finder and
+run the combineLibs.sh script on them, and copy the result into 
+Luxer-iPad/LuxerOne.
+
+
 ZBAR BAR CODE READER
 ====================
 
